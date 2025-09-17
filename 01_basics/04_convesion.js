@@ -17,3 +17,7 @@ console.log(isLoggedIn);
 let someString = String(123)
 console.log(someString);
 console.log(typeof someString);
+
+
+//*********************operation ************ */
+
